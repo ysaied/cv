@@ -1,0 +1,150 @@
+---
+- Topic: Personal Data
+  Data:
+    Name: Yasser Mohamed Saied
+    E-mail: ysaied80@gmail.com
+    Address: Dubai, UAE
+    Contact: +971 56 748 9478
+- Topic: Career Objective
+  Data:
+    - Leverage 16+ years of technical post-sales, pre-sales experience, deep knowledge of SP networking, Cloud Technologies, SDN/NFV, Cybersecurity, strong communication/presentation skills and understanding of IT business models into technical development role in a multinational IT organization.
+- Topic : Career Summary
+  Data:
+    - Sr. Systems Engineer | SP Sales | Palo Alto Networks (05/2021 to Present)
+    - Lead Solutions Architect | SP & Cloud/SDN/NFV | Juniper Networks (08/2019 to 04/2021)
+    - Sr. System Engineer | SP Sales | Cisco Systems (06/2016 to 07/2019)
+    - Sr. Solution Architect | SP & DC | Juniper Networks (05/2008 to 05/2016)
+    - Sr. Network Architect| Mobinil "LinkdotNet" (03/2005 to 04/2008)
+    - Trainer | National Telecommunication Institute (06/2004 to 03/2005)
+    - Teaching Assistant | Higher Technological Institute (09/2003 to 05/2004)
+- Topic: Technical Skills
+  Data:
+    - Hyper-scale Service Provider technologies (Core, Edge, MPLS, Multicast, Mobile Packet Core, QoS, WAN SDN, NFV/SDN)
+    - Data Center & Cloud technologies (Networking, Compute Virtualization & Containers, DC SDN, Storage, Hyper-Converge Infrastructure, Public Cloud Architectures)
+    - Enterprise networking technologies (WAN, SD-WAN, SDA, Wireless, Security and Collaboration)
+    - Automation and Service Orchestration (Python, Ansible, Salt, Cisco NSO and Linux shell scripting)
+    - Industry certificates [Juniper, Cisco, AWS, Microsoft Azure, Google Cloud Platform and Palo Alto]
+    - Hands-on for well-known products/solutions Cisco (IOS/IOS-XE/IOS-XR, ACI APIC, NX-OS, Viptela, DNA, NSO, WAE, XTC), Juniper (JUNOS, JUNOS Space, NorthStar, Contrail), Palo Alto (PAN-OS), VMware (vSphere, NSX)
+- Topic: Work History
+  Jobs:
+    - Title: Sr. Systems Engineer | Service Provider Sales
+      From: 04/2021
+      To: Current
+      Employer: Palo Alto Networks
+      Location: Dubai, UAE
+      Description:
+        - A trusted Networking and Cybersecurity advisor for Service Providers across Gulf region
+        - Architect and propose validated solutions which address the identified cybersecurity problems in Service Providers environments
+        - Establish tight partnership with Account Manager and the local partners to address customer business needs
+        - Deploy customer demos, PoCs and products updates to drive sales opportunities
+        - Leading RFP response, delivering competition analysis
+        - Building optimized Bill-of-Quantity (BoQ/BoM) that meets customers’ technical requirements and business needs
+        - Ensure ongoing customer happiness, support, and adoption
+        - Covering all Palo Alto products and solutions (NGFW, Cloud Security:- Prisma Access/SaaS/Cloud, SASE and SD-WAN, Security Orchestration/Automation/Response “SOAR”)
+    - Title: Lead Solutions Architect | SP & Cloud/SDN/NFV
+      From: 08/2019
+      To: 04/2021
+      Employer: Juniper Networks
+      Location: Dubai, UAE
+      Description:
+        - Develop hyper-scale network architectures for Service Providers and large-scale Enterprise networks.
+        - Major focus on Service Provider technologies (Routing & Mobile Access/Backhauling, Segment Routing, Automation and Service Orchestration, WAN SDN, SD-WAN, Data Center Underlay Networking and Overlay Software Defined Networking "SDDC", NFV and Security)
+        - Develop extensive high-level design, low-level design, Proof-of-Concept documents
+        - Deliver Transfer of Knowledge workshops to Juniper Networks customers and partners on new next generation technologies (e.g. EVPN, SR, SDWAN, SDN/NFV)
+        - Deliver expertise level consultancy Juniper Networks products (MX/PTX routing platforms, QFX Data Center Switching platforms, SRX security platforms, Northstar MPLS SDN Controller, Contrail Data Center and SDWAN Controller), Python/Ansible Automation and Scripting tools
+    - Title: Sr. System Engineer | Service Provider Sales
+      From: 06/2016
+      To: 07/2019
+      Employer: Cisco Systems
+      Location:
+        - Dubai, UAE
+        - LA, California, USA
+      Description:
+        - Account lead System Engineer for (EITC (du)/UAE, AT&T Entertainment Group/USA)
+        - Developing hyper-scale technical solutions and architecture
+        - Acting as technical advisor to account Executives and Engineers
+        - Delivering new products, technology and product road-map updates
+        - Building highly optimized Bill-of-Quantity (BoQ/BoM) to meet the account technical requirements and business needs
+        - Leading RFP response
+        - Delivering competition analysis
+        - Securing Demo kits and delivering Demos
+        - Developing Prof-of-Concept plans, host account representatives during PoC visits, ensure PoC deliverables meets customer expectations
+        - Working closely with Cisco Engineering Business Units to transfer Customer technical requirements and build Code Enhancement Requests
+        - Ensure regular meetings/conference calls between account executives and Cisco BU executives
+        - Build customer training plans, hosting account representatives on Cisco Events (CiscoLive, Tech days)
+        - Working closely with Cisco Advanced Service managers to build and review services delivery Scope-of-Work
+        - Follow up with Cisco TAC (CX) managers for escalations
+        - Working closely with Account Managers in developing business account planning and forecasting
+        - Supporting Account Managers in creating/tracking SalesForce deals
+        - Ensure self-development on new technologies and products
+        - Covering the following Cisco products and solutions (Cisco SP Routing ASR9k/NCS5K, Cisco SP Access ASR900/NCS500, Cisco SP Automation and Orchestration NSO/WAE/XTC/Situation-Manager, Cisco DC Switching ACI/Nexus 3K/5K/9K, Cisco DC Compute UCS, Cisco DC SDN ACI/APIC, Cisco Security FirePower, Cisco SD-WAN Viptela, Cisco Enterprise Routing/Switching ISR4K/Cat9K/DNA/SDA, Cisco Collaboration Webex)
+    - Title: Sr. Solution Architect | SP and DC Networking
+      From: 05/2008
+      To: 05/2016
+      Employer: Juniper Networks
+      Location:
+        - Dubai, UAE
+        - Riyadh, KSA
+      Description:
+        - Develop hyper-scale solution architectures for Service Provider and Data Center Networking
+        - Delivered solution architecture to major Juniper Networks accounts all over Europe, Middle East, Africa, Asia
+        - Deliver high-level design, low-level design, network implementation/migration plans, design validation testing plans, design validation testing executions, network auditing/optimization reports and critical implementation executions on live networks
+        - Major focus on hyper-scale Service Providers technology (MPLS, Mobile Packet Core, Mobile backhauling, advanced QoS, Broadband Subscriber Access and AAA, CGNAT, Multicast VPNs, Internet and Peering Exchange) and Data Center technology (DC switching fabric, EVPN, VPLS, DCI, Compute virtualization integration)
+        - Develop Professional Service Statement of Work (SoW) with time-lines and detailed deliverables
+        - Main Projects ( DC design for Qatar Stock Exchange, DC design for AD Water&Electricty, DC design for AD Crown Price Court, SP Core design for Neotel South Africa, Campus design for Ministry of Interior UAE, Core enhancements and CGNAT design for STC KSA, SP Core design for Mobily KSA, SP Core design for Etisalat UAE, SP Core design for GARR Italy, SP Core and BRAS design for PTCL Pakistan, Internet Exchange design for Mada Kuwait, Campus and DC design for AD Airports, BRAS design for du UAE, Mobile Packet Core design for STC KSA)
+    - Title: Sr Network Design and Development Engineer
+      From: 03/2005
+      To: 04/2008
+      Employer: Mobinil (LinkdotNet)
+      Location: Cairo, EG
+      Description:
+        - Develop high-scale SP Core, Data Center, Enterprise networking solution architectures
+        - Develop network optimization and enhancement solution
+        - Work closely with Executives to develop new end-customers solution and generate new revenue streams
+        - Designing and Lab validation testing of all networking solution deployed on LinkdotNet network
+        - RFP write-up and vendor response evaluation
+        - Supporting Network operations team in critical operations and advanced troubleshooting
+        - Major focus on (SP Core routing, Data Center switching, Enterprise LAN/WAN design, Broadband Internet Access and triple-play, AAA and Policy enforcement software)
+    - Title: Cisco Trainer
+      From: 06/2004
+      To: 03/2005
+      Employer: National Telecommunication Institute (NTI)
+      Location: Cairo, EG
+      Description:
+        - Delivering Cisco Certificate Training courses (CCNA, CCNP, CCIP)
+    - Title: Teaching Assistant
+      From: 09/2003
+      To: 05/2004
+      Employer: Higher Technological Institute (HTI)
+      Location: 10th of Ramadan City, EG
+      Description:
+        - Delivering Undergraduate lectures - Faculty of Engineering, Electrical and Computer Science
+        - Assisting Professors in delivering the practical Lab lectures
+        - Review undergraduates’ assignments and exam answers
+- Topic: Education
+  Degree:
+    - Institue : Faculty of Engineering, Ain Shams University
+      Date: 09/2003
+      Location: Cairo, EG
+      Degree: B.Sc.
+      Major: Electronics & Communications Engineering
+- Topic : Awards
+  Data:
+    - Cisco Sales Champion FY 2017
+    - Cisco Sales Achiever FY 2018
+- Topic : Certificate
+  Data:
+    - Juniper Networks Certifications 17x [JNCIS-E Series, JNCIA/JNCIS/JNCIP/JNCIE-Service Provider, JNCIA/JNCIS/JNCIP-Security, JNCIS/JNCIE-Enterprise, JNCIA-DevOps, JNCIA/JNCIS/JNCIP-Cloud, JNCIP/JNCIE-Data Center]
+    - Palo Alto Networks Certifications 9x [PCSSA, PCNSA, PCNSE, PCSAE, PSE Professional – Strata | Strata DC | Prisma Cloud | SASE | Cortex]
+    - Cisco Certifications 3x [CCNA/CCIP, CCIE-SP (written)]
+    - VMware Certifications 2x [VCP-NV 2020, VCP-DCV 2020]
+    - AWS Certifications [Solutions Architect-Associate (SAA)]
+    - Microsoft Azure Certifications [Azure Fundamentals (AZ-900)]
+    - Google Cloud Platform Certifications [Associate Cloud Engineer]
+- Topic: Training
+  Data:
+    - Cisco Live Events (2017-2019)
+    - MPLS/SDN/NFV World Congress (2010-2017)
+    - Cisco internal trainings for System Engineers
+    - Juniper Networks internal trainings for System Engineers
+    - Cisco NSO, Juniper Northstar WAN-SDN, Juniper Contrail SDN

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page_title }}</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon"  href="/images/icon.png">
+</head>
+<body>
+    <h2>{{page_heading}}</h2>
+    <table>
+        <theader>
+
+        </theader>
+        {% for entry in cv %}
+        <tr>
+            <td>{{ entry.Topic }}</td>
+            {% if "Data" in entry %}
+            <td>
+                {% for data in entry.Data %}
+                <ul><li>{{ data }}</li></ul>
+                {% endfor %}
+            </td>
+            {% elif "Jobs" in entry %}
+            <td>
+            {% for job in entry.Jobs %}
+                <div>
+                    {{ job.Employer }}<br>
+                    <span>
+                        Title:{{ job.Title}}<br>
+                        From: {{ job.From }} - To: {{ job.To }}<br>
+                        Location: {{ job.Location }}<br>
+                        <ul>
+                        {% for description in job.Description %}
+                            <li>{{ description }}</li>
+                        {% endfor%}
+                        </ul>
+                    </span>
+                </div>
+            {% endfor %}
+            </td>
+            {% elif "Degree" in entry %}
+            <td>
+                <table>
+                    {% for degree in entry.Degree %}
+                    {% for key,value in degree.items() %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value}}</td>
+                    </tr>
+                    {% endfor %}
+                    {% endfor %}
+                </table>
+            </td>
+            {% endif %}
+        </tr>
+        {% endfor %}
+    </table>
+
+    <script src="index.js"></script>
+</body>
+</html>

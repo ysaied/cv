@@ -1,12 +1,12 @@
 ---
 - Topic: Personal Data
-  Data:
-    Name: Yasser Mohamed Saied
-    E-mail: ysaied80@gmail.com
-    Address: Dubai, UAE
-    Contact: +971 56 748 9478
+  Personal:
+    - Name:- Yasser Mohamed Saied
+    - E-mail:- ysaied80@gmail.com
+    - Address:- Dubai, UAE
+    - Contact:- +971 56 748 9478
 - Topic: Career Objective
-  Data:
+  Objective:
     - Leverage 16+ years of technical post-sales, pre-sales experience, deep knowledge of SP networking, Cloud Technologies, SDN/NFV, Cybersecurity, strong communication/presentation skills and understanding of IT business models into technical development role in a multinational IT organization.
 - Topic : Career Summary
   Data:
@@ -21,6 +21,7 @@
   Data:
     - Hyper-scale Service Provider technologies (Core, Edge, MPLS, Multicast, Mobile Packet Core, QoS, WAN SDN, NFV/SDN)
     - Data Center & Cloud technologies (Networking, Compute Virtualization & Containers, DC SDN, Storage, Hyper-Converge Infrastructure, Public Cloud Architectures)
+    - Cyber Security technologies (Network/DC, Mobile Packet Core, Cloud Native Workloads, DevSecOps, Endpoints/XDR/NDR, SIEM/SOAR)
     - Enterprise networking technologies (WAN, SD-WAN, SDA, Wireless, Security and Collaboration)
     - Automation and Service Orchestration (Python, Ansible, Salt, Cisco NSO and Linux shell scripting)
     - Industry certificates [Juniper, Cisco, AWS, Microsoft Azure, Google Cloud Platform and Palo Alto]
@@ -40,7 +41,7 @@
         - Leading RFP response, delivering competition analysis
         - Building optimized Bill-of-Quantity (BoQ/BoM) that meets customers’ technical requirements and business needs
         - Ensure ongoing customer happiness, support, and adoption
-        - Covering all Palo Alto products and solutions (NGFW, Cloud Security:- Prisma Access/SaaS/Cloud, SASE and SD-WAN, Security Orchestration/Automation/Response “SOAR”)
+        - Covering all Palo Alto products and solutions (NGFW, Cloud Native/Containers workloads, SASE and SD-WAN, SOAR and XDR)
     - Title: Lead Solutions Architect | SP & Cloud/SDN/NFV
       From: 08/2019
       To: 04/2021

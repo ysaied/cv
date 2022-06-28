@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    #background-color: white;
 }
 h2 {
     text-align: center;
@@ -16,9 +16,9 @@ table {
     #border-radius: 20px;
     #padding: 2px;
     border-collapse: separate;
-    border: 2px solid;
+    #border: 2px solid;
     font-size: 0.9em;
-    #table-layout: auto;
+    table-layout: auto;
 }
 tr,td {
     border: 0.5px solid;
@@ -45,6 +45,12 @@ td.vendor {
 td.seq {
     width: 2%;
 }
+td.topic {
+    width: 10%;
+    font-size: 1.3em;
+    #font-family: "Times New Roman", Times, serif;
+    font-family: "Sofia", sans-serif;
+}
 .correct_answer {
     display: none;
 }
@@ -56,8 +62,17 @@ hr {
     width: 5%;
 }
 
-ul.reference_link {
-    list-style-type: square;
+ul.personal{
+    list-style-type: none;
+    padding-left: 0.5%;
+}
+ul.objective{
+    list-style-type: none;
+    padding-left: 0.5%;
+}
+ul.data{
+    #list-style-type: none;
+    padding-left: 1%;
 }
 .show_answer_button {
     border-radius: 15px;

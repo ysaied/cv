@@ -8,6 +8,7 @@ with open("./cv.yaml","r") as yaml_file:
 
 args_jinja2 = {
     "page_title" : "Yasser Saied CV",
+    "page_heading" : "Yasser Saied",
     "datetime" : datetime.datetime.now().strftime("%d-%m-%Y %I:%M %p"),
     "cv" : cv,
 }
